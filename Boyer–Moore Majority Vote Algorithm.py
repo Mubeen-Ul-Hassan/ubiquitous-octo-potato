@@ -1,5 +1,5 @@
 # Boyer-Moore Majority ALGORITHM:
-# (1) --> CreateStart without a candidate and with 0 votes.
+# (1) --> Create variables to store number and it's votes.
 # (2) -->  Loop through each number:
 #         a. If votes are 0, set the current number as the candidate and start voting (vote = 1).
 #         b. If the current number matches the candidate, increase votes.
