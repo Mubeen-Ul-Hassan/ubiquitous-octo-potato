@@ -1,3 +1,3 @@
 # ubiquitous-octo-potato
 
-<img src="background.jpg"></img>
+<img src="background.jpeg"></img>
