@@ -2,7 +2,7 @@
 
 <img src="background.jpeg"></img>
 
-<p>This repository is your one-stop shop for conquering the world of data structures and algorithms! Whether you're a programming newbie or a seasoned developer, you'll find valuable resources here to level up your skills. Simple and bit size explanatio.</p>
+<p>This repo is your one-stop shop for conquering the world of data structures and algorithms! Whether you're a programming newbie or a seasoned developer, you'll find valuable resources here to level up your skills. Simple and bit size explanatio.</p>
 
 <h3>Contributing:</h3>
 
